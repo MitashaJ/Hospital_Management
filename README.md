@@ -1,1 +1,3 @@
 # Hospital_Management
+Hospital management focuses on focuses on creating a dynamic and flexible structure to handle various aspects of hospital management, including patient databases, doctor profiles, and appointment scheduling.Patient records feature vital details like patient ID, name, age, gender, contact information, medical history, and current status. Simultaneously, doctor profiles encompass doctor ID, name, specialization, contact details, and availability.
+The two distinct appointment types offered are the Outpatient Department (OPD) and the Advanced Patient Department (APD).Patients are allowed time slots according to their registered order. Notably, a bold emphasis is placed on prioritizing emergency patients within the Advanced Patient Department (APD).
